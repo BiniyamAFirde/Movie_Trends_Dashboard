@@ -2,9 +2,9 @@
 # 🎬 Film Trends Dashboard: Age Limits, Ratings & Duration (1920s-2020s)
 
 ## 📌 Overview  
-The *Film Trends Dashboard* is an interactive data visualization created using *Tableau, analyzing trends in movies from the **1920s to the 2020s. It explores key aspects such as movie **ratings, duration, age restrictions, and sentiment analysis* of top-rated films.  
+The *Film Trends Dashboard* is an interactive data visualization created using Tableau, analyzing trends in movies from the 1920s to the 2020s. It explores key aspects such as movie ratings, duration, age restrictions, and sentiment analysis of top-rated films.  
 
-### 🔍 Key Insights  
+###  Key Insights  
 ✅ *Movie durations* mostly range between *90-150 minutes*  
 ✅ *Film production* increased significantly after the *1980s*  
 ✅ *Age restrictions* have evolved over time, affecting audience reach  
@@ -12,9 +12,9 @@ The *Film Trends Dashboard* is an interactive data visualization created using *
 
 ---
 
-## 📊 Dashboard Breakdown  
+##  Dashboard Breakdown  
 
-### *1️⃣ Histogram of Movie Durations*  
+### 1️⃣ Histogram of Movie Durations*  
 📌 *What it shows:*  
 •⁠  ⁠Distribution of movie durations over the last 100 years  
 •⁠  ⁠Most films fall within *90–150 minutes*  
@@ -22,35 +22,35 @@ The *Film Trends Dashboard* is an interactive data visualization created using *
 
 ---
 
-### *2️⃣ Number of Movies per Decade*  
+### 2️⃣ Number of Movies per Decade*  
 📌 *What it shows:*  
 •⁠  ⁠Count of movies released per decade  
 •⁠  ⁠Growth of the film industry, with a *major increase post-1980s*  
 
 ---
 
-### *3️⃣ Movies by Age Limit*  
+### 3️⃣ Movies by Age Limit*  
 📌 *What it shows:*  
 •⁠  ⁠Distribution of movies based on *age restrictions*  
 •⁠  ⁠Helps analyze trends in *G, PG, R, and 18+ rated films*  
 
 ---
 
-### *4️⃣ Greatest Movies of the Past 100 Years (Top 20 by Rating)*  
+### 4️⃣ Greatest Movies of the Past 100 Years (Top 20 by Rating)*  
 📌 *What it shows:*  
 •⁠  ⁠*Top 20 highest-rated movies* based on IMDb scores  
 •⁠  ⁠Includes classics like The Shawshank Redemption and The Godfather  
 
 ---
 
-### *5️⃣ Age Restrictions & Ratings Over Time*  
+### 5️⃣ Age Restrictions & Ratings Over Time*  
 📌 *What it shows:*  
 •⁠  ⁠Trends in *movie ratings and age restrictions* from the *1920s–2020s*  
 •⁠  ⁠Popularity of *R-rated films* surged in the late *20th century*  
 
 ---
 
-### *6️⃣ Rating Category Breakdown*  
+### 6️⃣ Rating Category Breakdown*  
 📌 *What it shows:*  
 •⁠  ⁠Movies grouped into three categories:  
   - *7.0–7.9 (Good)*  
@@ -60,14 +60,14 @@ The *Film Trends Dashboard* is an interactive data visualization created using *
 
 ---
 
-### *7️⃣ 8.0+ Movies Sentiment Analysis*  
+### 7️⃣ 8.0+ Movies Sentiment Analysis*  
 📌 *What it shows:*  
 •⁠  ⁠*Word cloud* of keywords from highly-rated movies (8.0+)  
 •⁠  ⁠Highlights *common themes like "War," "Love," "Space"*  
 
 ---
 
-### *8️⃣ How Long Do Movies Last? Average Duration by Age Rating*  
+### 8️⃣ How Long Do Movies Last? Average Duration by Age Rating*  
 📌 *What it shows:*  
 •⁠  ⁠*Pie chart* of average movie durations by age restriction  
 •⁠  ⁠*R-rated movies* tend to have *longer runtimes*  
@@ -88,14 +88,12 @@ The *Film Trends Dashboard* is an interactive data visualization created using *
 
 ---
 
-## 🤝 Contributing  
+##  Contributing  
 Want to improve this project? Feel free to *fork* this repo, open a *pull request, or report issues in the **Issues* section!  
 
 ---
 
-## 📜 License  
+##  License  
 This project is licensed under the *MIT License* – feel free to use and modify it as needed.  
 
 ---
-
-📢 *Follow for more data-driven insights!* 🚀
